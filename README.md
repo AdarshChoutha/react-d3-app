@@ -1,3 +1,7 @@
+# client
+
+This branch is where all the client side code of react-d3-app is there.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
